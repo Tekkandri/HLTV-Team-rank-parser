@@ -31,12 +31,3 @@ def getRanking():
     return result
 
 print(getRanking())
-
-
-
-
-
-
-
-# soup = getSoup("https://www.hltv.org/matches/2352506/virtuspro-vs-faze-pgl-major-stockholm-2021")
-# print(getTeams(soup))
